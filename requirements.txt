@@ -1,0 +1,16 @@
+gradio
+sentence-transformers
+umap-learn
+hdbscan
+plotly
+scipy
+wordcloud
+transformers
+datasets
+accelerate
+scikit-learn
+matplotlib
+emoji==0.6.0
+torch
+numpy
+pandas

@@ -112,7 +112,3 @@ The interface is designed for research interpretation, not only prediction:
 - This repository is intended for research and dissertation evaluation workflows.
 - Model quality is sensitive to annotation quality, class balance, and domain/language mismatch.
 - Thresholds used in profile interpretation are configurable and should be validated for each dataset.
-
-## Citation
-
-If you use this repository in academic work, please cite the corresponding dissertation and, if available, related publications.
